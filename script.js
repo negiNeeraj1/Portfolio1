@@ -133,9 +133,9 @@ for (let i = 0; i < formInputs.length; i++) {
 
   });
 }
-
 let email_value=document.querySelector('input[name="email"]');
 email_value.value="negi2350@gmail.com";
+
 
 // page navigation variables
 const navigationLinks = document.querySelectorAll("[data-nav-link]");
